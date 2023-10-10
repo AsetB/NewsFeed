@@ -10,7 +10,6 @@ import UIKit
 class ViewController: UIViewController {
     
     var time = 0
-    var starTime = 0
     var timer = Timer()
     
 //    var newsArray:[String] = ["News 1", "News 2", "News 3", "News 4", "News 5"]
